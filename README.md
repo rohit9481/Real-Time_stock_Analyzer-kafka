@@ -19,9 +19,3 @@ technologies used Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena,
 - Apache Kafka
 
 
-## Dataset Used
-
-Here is the dataset  - https://github.com/darshilparmar/
-stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
-
-
